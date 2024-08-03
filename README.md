@@ -1,4 +1,4 @@
-# Explorando os Recursos -e IA Generativa com Copilot e OpenAI
+# Explorando os Recursos IA Generativa com Copilot e OpenAI
 
 ### Desafio de projeto do Bootcamp Microsoft Copilot AI da Dio
 
